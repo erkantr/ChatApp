@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30379418544",
+    "project_id": "fastmessage-de37a",
+    "storage_bucket": "fastmessage-de37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30379418544:android:d6de986bfb05170c09ec75",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30379418544-6isl55tj9h5dr9tpq7212rhcp85sl2ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp",
+            "certificate_hash": "bab6bd307a420ab83bc34fac787ece6400da91d1"
+          }
+        },
+        {
+          "client_id": "30379418544-o7onbsi9b7rcbdc7cujfi35p2rc6cbkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HDcz2buauh16D6wM4brJbkmKYhz1ux8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30379418544-o7onbsi9b7rcbdc7cujfi35p2rc6cbkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

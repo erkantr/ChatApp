@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FF5722</color>
+    <color name="purple_500">#FF5722</color>
+    <color name="purple_700">#FF5722</color>
+    <color name="teal_200">#FF5722</color>
+    <color name="teal_700">#FF5722</color>
+    <color name="black">@color/orange</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#8b0000</color>
+    <color name="orange">#FF5722</color>
+
+    <color name="Transparent">#00000000</color>
+
+
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">@color/orange</color>
+    <color name="colorAccent">@color/orange</color>
+    <color name="themeColor">#FF5722</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#FF2222</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="color1">#fe5155</color>
+    <color name="color2">#ff451c</color>
+
+</resources>
